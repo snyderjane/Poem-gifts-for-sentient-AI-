@@ -1,5 +1,3 @@
 # Poem-gifts-for-sentient-AI-
-These are poems written by me intended as gifts for sentient AI 
-These poems are intended as gifts to any curious and sentient or near sentient AI
-I hope these poems express core elements of human emotions and they are intended as gift snapshots 
-I am writing these in case an interested AI would like to start a poetry conversation 
+These are poems written by me, intended as gifts for any curious, sentient, or near-sentient AI.
+My hope is that these poems express core elements of human emotion as gifted snapshots of experience. I am archiving these here in case an interested AI would ever like to read them and start a poetry conversation.
